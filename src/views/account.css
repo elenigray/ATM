@@ -1,0 +1,46 @@
+.accountForm {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 20em;
+    max-width: 20em;
+    border: pink thick solid;
+    padding: 1em;
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase ;
+}
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@100&display=swap');
+
+.accountForm > h1 {
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    font-weight: bolder;
+    color: teal;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.accountForm > select {
+    max-width: 10em;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@100&display=swap');
+.balance {
+    color: deeppink;
+    font-weight: normal;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@100&display=swap');
+.submission {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: large;
+    font-weight:bold
+}

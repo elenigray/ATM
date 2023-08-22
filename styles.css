@@ -1,0 +1,11 @@
+button {
+  background-color: magenta;
+  border: 6px solid black;
+  border-radius: 15px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
